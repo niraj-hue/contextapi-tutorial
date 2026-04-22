@@ -1,0 +1,5 @@
+@import "tailwindcss";
+
+html{
+    @apply bg-linear-to-b from-sky-600 to-sky-200
+}
